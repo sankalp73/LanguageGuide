@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">LanguageGuide1.0</string>
+    <string-array name="language">
+        <item>HINDI("hi")</item>
+        <item>URDU("ur")</item>
+        <item>ALBANIAN("sq")</item>
+        <item>ARMENIAN("hy")</item>
+        <item>AZERBAIJANI("az")</item>
+        <item>BELARUSIAN("be")</item>
+        <item>BULGARIAN("bg")</item>
+        <item>CATALAN("ca")</item>
+        <item>CROATIAN("hr")</item>
+        <item>CZECH("cs")</item>
+        <item>DANISH("da")</item>
+        <item>DUTCH("nl")</item>
+        <item>ENGLISH("en")</item>
+        <item>ESTONIAN("et")</item>
+        <item>FINNISH("fi")</item>
+        <item>FRENCH("fr")</item>
+        <item>GERMAN("de")</item>
+        <item>GEORGIAN("ka")</item>
+        <item>GREEK("el")</item>
+        <item>HUNGARIAN("hu")</item>
+        <item>HEBREW("he")</item>
+        <item>KANNADA("kn")</item>
+        <item>PUNJABI("pa")</item>
+        <item>MARATHI("mr")</item>
+        <item>ITALIAN("it")</item>
+        <item>LATVIAN("lv")</item>
+        <item>LITHUANIAN("lt")</item>
+        <item>MACEDONIAN("mk")</item>
+        <item>NORWEGIAN("no")</item>
+        <item>NEPALI("ne")</item>
+        <item>TAMIL("ta")</item>
+        <item>TELUGU("te")</item>
+        <item>BENGALI("bn")</item>
+        <item>POLISH("pl")</item>
+        <item>PORTUGUESE("pt")</item>
+        <item>ROMANIAN("ro")</item>
+        <item>RUSSIAN("ru")</item>
+        <item>SERBIAN("sr")</item>
+        <item>SLOVAK("sk")</item>
+        <item>SLOVENIAN("sl")</item>
+        <item>SPANISH("es")</item>
+        <item>SWEDISH("sv")</item>
+        <item>TURKISH("tr")</item>
+        <item>MALAYALAM("ml")</item>
+        <item>JAPANESE("ja")</item>
+        <item>CHINESE("zh")</item>
+        <item>KOREAN("ko")</item>
+        <item>UKRAINIAN("uk")</item>
+    </string-array>
+</resources>
